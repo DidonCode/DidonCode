@@ -4,7 +4,6 @@ Je suis un développeur passionné par la technologie et l'innovation. J'aime r�
 
 - 🌱 Actuellement, je suis en étude d'informatique.
 - 👯 Je suis ouvert à collaborer sur des projets intéressants et à partager mes connaissances.
-- 📫 Tu peux me contacter à perrier.richardj@gmail.com.
 
 ## 🔧 Technologies et Outils
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
